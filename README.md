@@ -1,5 +1,8 @@
-# Linux-IPC-Semaphores
-Ex05-Linux IPC-Semaphores
+## Ex05-Linux IPC-Semaphores
+
+### Name: HENRIPRASATH S
+### Register No: 212223230077
+### Date:
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
